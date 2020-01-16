@@ -1,10 +1,11 @@
-/output
+output/*/*
+!output/*/.config
 /dl
 /.auto.deps
 /.config.cmd
 /.config.old
 /..config.tmp
-/.config
+#/.config
 *.depend
 *.o
 /*.patch
